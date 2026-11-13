@@ -1,0 +1,17 @@
+ProductID,ProductName,Category,SellingPrice,CostPrice
+101,Wireless Earbuds,Electronics,2499,1400
+102,Smart Watch,Electronics,4999,2800
+103,Bluetooth Speaker,Electronics,1999,1100
+104,USB-C Fast Charger,Electronics,799,320
+105,Slim Fit Denim,Apparel,1899,850
+106,Oversized Cotton Tee,Apparel,799,300
+107,Hooded Sweatshirt,Apparel,1599,700
+108,Running Sneakers,Apparel,2999,1350
+109,Stainless Steel Kettle,Home & Kitchen,1299,650
+110,Air Fryer 4L,Home & Kitchen,4599,2600
+111,Ceramic Mug Set,Home & Kitchen,599,210
+112,Non-Stick Pan,Home & Kitchen,1199,520
+113,Hydrating Sunscreen SPF 50,Beauty & Personal Care,649,220
+114,Vitamin C Face Serum,Beauty & Personal Care,899,310
+115,Hair Growth Oil,Beauty & Personal Care,499,160
+116,Charcoal Face Wash,Beauty & Personal Care,349,110

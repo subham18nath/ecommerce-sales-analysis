@@ -1,0 +1,201 @@
+CustomerID,City,State,Region
+CUST-0001,Chennai,Tamil Nadu,South
+CUST-0002,Hyderabad,Telangana,South
+CUST-0003,Kolkata,West Bengal,East
+CUST-0004,Chennai,Tamil Nadu,South
+CUST-0005,Delhi,Delhi NCR,North
+CUST-0006,Jaipur,Rajasthan,North
+CUST-0007,Kolkata,West Bengal,East
+CUST-0008,Kolkata,West Bengal,East
+CUST-0009,Chennai,Tamil Nadu,South
+CUST-0010,Mumbai,Maharashtra,West
+CUST-0011,Delhi,Delhi NCR,North
+CUST-0012,Chennai,Tamil Nadu,South
+CUST-0013,Delhi,Delhi NCR,North
+CUST-0014,Delhi,Delhi NCR,North
+CUST-0015,Jaipur,Rajasthan,North
+CUST-0016,Kolkata,West Bengal,East
+CUST-0017,Hyderabad,Telangana,South
+CUST-0018,Jaipur,Rajasthan,North
+CUST-0019,Jaipur,Rajasthan,North
+CUST-0020,Delhi,Delhi NCR,North
+CUST-0021,Pune,Maharashtra,West
+CUST-0022,Kolkata,West Bengal,East
+CUST-0023,Mumbai,Maharashtra,West
+CUST-0024,Jaipur,Rajasthan,North
+CUST-0025,Hyderabad,Telangana,South
+CUST-0026,Pune,Maharashtra,West
+CUST-0027,Pune,Maharashtra,West
+CUST-0028,Mumbai,Maharashtra,West
+CUST-0029,Jaipur,Rajasthan,North
+CUST-0030,Hyderabad,Telangana,South
+CUST-0031,Kolkata,West Bengal,East
+CUST-0032,Bengaluru,Karnataka,South
+CUST-0033,Hyderabad,Telangana,South
+CUST-0034,Mumbai,Maharashtra,West
+CUST-0035,Pune,Maharashtra,West
+CUST-0036,Kolkata,West Bengal,East
+CUST-0037,Hyderabad,Telangana,South
+CUST-0038,Bengaluru,Karnataka,South
+CUST-0039,Bengaluru,Karnataka,South
+CUST-0040,Delhi,Delhi NCR,North
+CUST-0041,Delhi,Delhi NCR,North
+CUST-0042,Chennai,Tamil Nadu,South
+CUST-0043,Mumbai,Maharashtra,West
+CUST-0044,Jaipur,Rajasthan,North
+CUST-0045,Hyderabad,Telangana,South
+CUST-0046,Hyderabad,Telangana,South
+CUST-0047,Jaipur,Rajasthan,North
+CUST-0048,Chennai,Tamil Nadu,South
+CUST-0049,Pune,Maharashtra,West
+CUST-0050,Pune,Maharashtra,West
+CUST-0051,Chennai,Tamil Nadu,South
+CUST-0052,Pune,Maharashtra,West
+CUST-0053,Delhi,Delhi NCR,North
+CUST-0054,Hyderabad,Telangana,South
+CUST-0055,Chennai,Tamil Nadu,South
+CUST-0056,Hyderabad,Telangana,South
+CUST-0057,Jaipur,Rajasthan,North
+CUST-0058,Bengaluru,Karnataka,South
+CUST-0059,Delhi,Delhi NCR,North
+CUST-0060,Kolkata,West Bengal,East
+CUST-0061,Delhi,Delhi NCR,North
+CUST-0062,Chennai,Tamil Nadu,South
+CUST-0063,Kolkata,West Bengal,East
+CUST-0064,Bengaluru,Karnataka,South
+CUST-0065,Chennai,Tamil Nadu,South
+CUST-0066,Mumbai,Maharashtra,West
+CUST-0067,Hyderabad,Telangana,South
+CUST-0068,Bengaluru,Karnataka,South
+CUST-0069,Hyderabad,Telangana,South
+CUST-0070,Pune,Maharashtra,West
+CUST-0071,Mumbai,Maharashtra,West
+CUST-0072,Mumbai,Maharashtra,West
+CUST-0073,Bengaluru,Karnataka,South
+CUST-0074,Mumbai,Maharashtra,West
+CUST-0075,Kolkata,West Bengal,East
+CUST-0076,Mumbai,Maharashtra,West
+CUST-0077,Hyderabad,Telangana,South
+CUST-0078,Hyderabad,Telangana,South
+CUST-0079,Chennai,Tamil Nadu,South
+CUST-0080,Hyderabad,Telangana,South
+CUST-0081,Chennai,Tamil Nadu,South
+CUST-0082,Hyderabad,Telangana,South
+CUST-0083,Kolkata,West Bengal,East
+CUST-0084,Jaipur,Rajasthan,North
+CUST-0085,Chennai,Tamil Nadu,South
+CUST-0086,Delhi,Delhi NCR,North
+CUST-0087,Pune,Maharashtra,West
+CUST-0088,Bengaluru,Karnataka,South
+CUST-0089,Hyderabad,Telangana,South
+CUST-0090,Mumbai,Maharashtra,West
+CUST-0091,Jaipur,Rajasthan,North
+CUST-0092,Hyderabad,Telangana,South
+CUST-0093,Mumbai,Maharashtra,West
+CUST-0094,Pune,Maharashtra,West
+CUST-0095,Pune,Maharashtra,West
+CUST-0096,Pune,Maharashtra,West
+CUST-0097,Mumbai,Maharashtra,West
+CUST-0098,Hyderabad,Telangana,South
+CUST-0099,Pune,Maharashtra,West
+CUST-0100,Kolkata,West Bengal,East
+CUST-0101,Chennai,Tamil Nadu,South
+CUST-0102,Mumbai,Maharashtra,West
+CUST-0103,Mumbai,Maharashtra,West
+CUST-0104,Hyderabad,Telangana,South
+CUST-0105,Mumbai,Maharashtra,West
+CUST-0106,Mumbai,Maharashtra,West
+CUST-0107,Pune,Maharashtra,West
+CUST-0108,Hyderabad,Telangana,South
+CUST-0109,Pune,Maharashtra,West
+CUST-0110,Chennai,Tamil Nadu,South
+CUST-0111,Jaipur,Rajasthan,North
+CUST-0112,Chennai,Tamil Nadu,South
+CUST-0113,Jaipur,Rajasthan,North
+CUST-0114,Pune,Maharashtra,West
+CUST-0115,Chennai,Tamil Nadu,South
+CUST-0116,Hyderabad,Telangana,South
+CUST-0117,Bengaluru,Karnataka,South
+CUST-0118,Pune,Maharashtra,West
+CUST-0119,Jaipur,Rajasthan,North
+CUST-0120,Kolkata,West Bengal,East
+CUST-0121,Jaipur,Rajasthan,North
+CUST-0122,Kolkata,West Bengal,East
+CUST-0123,Mumbai,Maharashtra,West
+CUST-0124,Chennai,Tamil Nadu,South
+CUST-0125,Kolkata,West Bengal,East
+CUST-0126,Jaipur,Rajasthan,North
+CUST-0127,Mumbai,Maharashtra,West
+CUST-0128,Bengaluru,Karnataka,South
+CUST-0129,Hyderabad,Telangana,South
+CUST-0130,Hyderabad,Telangana,South
+CUST-0131,Hyderabad,Telangana,South
+CUST-0132,Kolkata,West Bengal,East
+CUST-0133,Bengaluru,Karnataka,South
+CUST-0134,Kolkata,West Bengal,East
+CUST-0135,Chennai,Tamil Nadu,South
+CUST-0136,Kolkata,West Bengal,East
+CUST-0137,Bengaluru,Karnataka,South
+CUST-0138,Bengaluru,Karnataka,South
+CUST-0139,Chennai,Tamil Nadu,South
+CUST-0140,Bengaluru,Karnataka,South
+CUST-0141,Jaipur,Rajasthan,North
+CUST-0142,Bengaluru,Karnataka,South
+CUST-0143,Hyderabad,Telangana,South
+CUST-0144,Jaipur,Rajasthan,North
+CUST-0145,Jaipur,Rajasthan,North
+CUST-0146,Chennai,Tamil Nadu,South
+CUST-0147,Delhi,Delhi NCR,North
+CUST-0148,Delhi,Delhi NCR,North
+CUST-0149,Bengaluru,Karnataka,South
+CUST-0150,Jaipur,Rajasthan,North
+CUST-0151,Delhi,Delhi NCR,North
+CUST-0152,Delhi,Delhi NCR,North
+CUST-0153,Bengaluru,Karnataka,South
+CUST-0154,Delhi,Delhi NCR,North
+CUST-0155,Kolkata,West Bengal,East
+CUST-0156,Mumbai,Maharashtra,West
+CUST-0157,Chennai,Tamil Nadu,South
+CUST-0158,Mumbai,Maharashtra,West
+CUST-0159,Bengaluru,Karnataka,South
+CUST-0160,Hyderabad,Telangana,South
+CUST-0161,Chennai,Tamil Nadu,South
+CUST-0162,Bengaluru,Karnataka,South
+CUST-0163,Jaipur,Rajasthan,North
+CUST-0164,Hyderabad,Telangana,South
+CUST-0165,Mumbai,Maharashtra,West
+CUST-0166,Bengaluru,Karnataka,South
+CUST-0167,Jaipur,Rajasthan,North
+CUST-0168,Chennai,Tamil Nadu,South
+CUST-0169,Chennai,Tamil Nadu,South
+CUST-0170,Pune,Maharashtra,West
+CUST-0171,Jaipur,Rajasthan,North
+CUST-0172,Kolkata,West Bengal,East
+CUST-0173,Delhi,Delhi NCR,North
+CUST-0174,Hyderabad,Telangana,South
+CUST-0175,Jaipur,Rajasthan,North
+CUST-0176,Pune,Maharashtra,West
+CUST-0177,Delhi,Delhi NCR,North
+CUST-0178,Delhi,Delhi NCR,North
+CUST-0179,Bengaluru,Karnataka,South
+CUST-0180,Delhi,Delhi NCR,North
+CUST-0181,Kolkata,West Bengal,East
+CUST-0182,Chennai,Tamil Nadu,South
+CUST-0183,Pune,Maharashtra,West
+CUST-0184,Delhi,Delhi NCR,North
+CUST-0185,Bengaluru,Karnataka,South
+CUST-0186,Kolkata,West Bengal,East
+CUST-0187,Mumbai,Maharashtra,West
+CUST-0188,Chennai,Tamil Nadu,South
+CUST-0189,Chennai,Tamil Nadu,South
+CUST-0190,Pune,Maharashtra,West
+CUST-0191,Chennai,Tamil Nadu,South
+CUST-0192,Delhi,Delhi NCR,North
+CUST-0193,Bengaluru,Karnataka,South
+CUST-0194,Chennai,Tamil Nadu,South
+CUST-0195,Chennai,Tamil Nadu,South
+CUST-0196,Mumbai,Maharashtra,West
+CUST-0197,Mumbai,Maharashtra,West
+CUST-0198,Hyderabad,Telangana,South
+CUST-0199,Kolkata,West Bengal,East
+CUST-0200,Delhi,Delhi NCR,North
